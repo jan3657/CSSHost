@@ -46950,3 +46950,7 @@ a-autocomplete a-option {
 a-dynamic-content {
     display: block
 }
+
+button {
+    visibility: hidden;
+}
